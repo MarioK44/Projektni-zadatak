@@ -1,0 +1,121 @@
+.navbar{
+    width: 100%;
+    margin: 20px 0px;
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(253, 253, 253);
+}
+.logo{
+    width: 120px;
+    cursor: pointer;
+    align-items:baseline;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+main a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+h1{
+    margin-left: 10px;
+}
+
+.novosti1 img{
+    width: 13%;
+    float: left;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.novosti1 p{
+    font-size: 1em;
+    margin: 0.5em;
+}
+.novosti2 img{
+    width: 13%;
+    float: left;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.novosti2 p{
+    font-size: 1em;
+    margin: 0.5em;
+}
+.novosti3 img{
+    width: 13%;
+    float: left;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-top: -5px;
+}
+.novosti3 p{
+    font-size: 1em;
+    margin: 0.5em;
+}
+.novosti4 img{
+    width: 13%;
+    float: left;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-top: -10px;
+
+}
+.novosti4 p{
+    font-size: 1em;
+    margin: 0.5em;
+}
+.novosti5 img{
+    width: 13%;
+    float: left;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-top: -5px;
+}
+.novosti5 p{
+    font-size: 1em;
+    margin: 0.5em;
+}
+
+.social{
+    position: relative;
+    bottom: -1vh;
+    margin-top: 60px;
+}
+
+
+footer {
+	background-color: #333;
+	padding: 0.15em;
+	clear: both;
+    position: relative;
+    bottom: 0vh;
+    width: auto;
+}
+footer p {
+	color: white;
+	text-align: center;
+	margin: 0.5em;
+}
+footer img {
+	width: 20px;
+}

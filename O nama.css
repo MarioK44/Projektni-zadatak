@@ -1,0 +1,96 @@
+.navbar{
+    width: 100%;
+    margin: 20px 0px;
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(253, 253, 253);
+}
+.logo{
+    width: 120px;
+    cursor: pointer;
+    align-items:baseline;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+
+.slika{
+    margin-top: 80px;
+    margin-left: 490px;
+    margin-bottom: -300px;
+    position: relative;
+}
+video{
+    margin-top: 80px;
+    margin-left: 490px;
+    margin-bottom: -300px;
+    position: relative;
+}
+
+
+footer {
+	background-color: #333;
+	padding: 0.15em;
+	clear: both;
+    position: relative;
+    bottom: 0vh;
+    width: auto;
+
+}
+footer p {
+	color: white;
+	text-align: center;
+	margin: 0.5em;
+}
+footer img {
+	width: 20px;
+}
+.social{
+    position: relative;
+    margin-top: 432px;
+}
+.top{
+    border: black;
+    background-image: url("https://images.samsung.com/is/image/samsung/assets/global/about-us/company-info/pc/AS.1_CompanyInfo_img01.png?$1920_N_JPG$");
+    width: auto;
+    height: 600px;
+}
+h1{
+    border:none;
+    margin-top: -300px;
+    margin-left: 150px;
+    margin-bottom: 300px;
+}
+.dva{
+    border:none;
+    margin-top: -300px;
+    margin-left: 150px;
+    margin-bottom: 250px;
+}
+h3{
+    border:none;
+    margin-top: -300px;
+    margin-left: 150px;
+    margin-bottom: 300px;
+}
+
+.p1{
+    border: 1px none;
+    text-align: center;
+    width: 950px;
+    margin-left: 420px;
+}
+.h2{
+    text-align: center;
+}
+html{
+    display: flexbox;
+}

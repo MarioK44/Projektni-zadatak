@@ -1,0 +1,58 @@
+.navbar{
+    width: 100%;
+    margin: 20px 0px;
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(253, 253, 253);
+}
+.logo{
+    width: 120px;
+    cursor: pointer;
+    align-items:baseline;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+
+figure {
+	padding: 0.5em;
+	margin: 0 1em 0.5em 1em;
+	float: left;
+	width: 22%;
+	border: 2px ridge black;
+    text-align: center;
+}
+figcaption {
+	font-size: 90%;
+	height: 50px;
+	text-align: center;
+}
+footer {
+	background-color: #333;
+	padding: 0.15em;
+	clear: both;
+    position: relative;
+    bottom: 0vh;
+    width: auto;
+}
+footer p {
+	color: white;
+	text-align: center;
+	margin: 0.5em;
+}
+footer img {
+	width: 20px;
+}
+.social{
+    position: relative;
+    bottom: -1vh;
+    margin-top:auto;
+}

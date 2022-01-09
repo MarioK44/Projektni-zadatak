@@ -1,0 +1,107 @@
+.navbar{
+    width: 100%;
+    margin-top: -10px;
+    margin-left: -10px;
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:white;
+}
+.logo{
+    width: 120px;
+    cursor: pointer;
+    align-items:baseline;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+
+.slika{
+    float: left;
+    margin: 10px;
+    color:white ;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 2px;
+}
+h1{
+    margin: 0.5em;
+	font-size: 2em;
+    color:white;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+h2{
+    margin: 0.5em;
+	font-size: 1.7em;
+    color:white;
+}
+p{
+    margin: 0.5em;
+    font-size: 1.0em;
+    color:white;
+}
+footer {
+	background-color: #333;
+	padding: 0.15em;
+	clear: both;
+    position: relative;
+    bottom: 0vh;
+    width: auto;
+}
+footer p {
+	color: white;
+	text-align: center;
+	margin: 0.5em;
+}
+footer img {
+	width: 20px;
+}
+.social{
+    position: relative;
+    bottom: 0vh;;
+}
+html{
+    background: linear-gradient( rgba(0, 0, 0, 0.859), rgba(0, 0, 0, 0.859)) ,url("https://cutewallpaper.org/21/teckno-wallpaper/Best-66+-Techno-Wallpaper-on-HipWallpaper-Techno-Wallpaper-.jpg");
+}
+.n1 h{
+    float:left;
+}
+
+.slika2{
+    color:white;
+    font-weight: bold;
+    float:right;
+    margin-right: 250px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.d1{
+    border: none;
+    width: 800px;
+    height: 350px;
+    position: auto;
+    text-align: center;
+    margin-left: 750px;
+}
+h2{
+    text-align: center;
+}
+.d2{
+    border: none;
+    width: 800px;
+    height: 350px;
+    position: auto;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 30px;
+}
